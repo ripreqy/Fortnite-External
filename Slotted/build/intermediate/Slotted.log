@@ -1,0 +1,1696 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Das Intermediate-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Intermediate-Verzeichnisses erforderlich ist.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  aimbot.cpp
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\thirdparty\memory\memory.h(13,9): warning C4005: "CTL_CODE": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(269,9):
+      siehe vorherige Definition von "CTL_CODE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58984,9):
+      siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58993,9):
+      siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59002,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59011,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59020,9):
+      siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59029,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59038,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59053,9):
+      siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59062,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59071,9):
+      siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59080,9):
+      siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59089,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59098,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59108,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59117,9):
+      siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59127,9):
+      siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59136,9):
+      siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59146,9):
+      siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59155,9):
+      siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59164,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59174,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59183,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59498,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59507,9):
+      siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59517,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59526,9):
+      siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59474,9):
+      siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59483,9):
+      siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,21): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(380,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(381,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(382,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(386,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(387,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(388,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(391,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(392,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(395,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(396,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(399,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(400,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(470,34): warning C4141: "inline": mehrmals verwendet
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(511,30): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(568,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,75): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(573,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(726,12): warning C4244: "=": Konvertierung von "__int64" in "char", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(733,13): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(785,26): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(786,19): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(796,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(795,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(908,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(910,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(944,48): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(959,55): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(960,54): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,30): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,49): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,33): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1019,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(60,36): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(60,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(176,44): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(179,121): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(225,39): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\aimbot\aimbot.cpp(225,29): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18): warning C4244: "=": Konvertierung von "wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(744,21):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(744,3):
+              Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "player::GetPlayerName" anzeigen
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(812,17):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(968,18):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)" der Funktions-Vorlage.
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  index.cpp
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\thirdparty\memory\memory.h(13,9): warning C4005: "CTL_CODE": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(269,9):
+      siehe vorherige Definition von "CTL_CODE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58984,9):
+      siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58993,9):
+      siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59002,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59011,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59020,9):
+      siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59029,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59038,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59053,9):
+      siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59062,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59071,9):
+      siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59080,9):
+      siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59089,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59098,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59108,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59117,9):
+      siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59127,9):
+      siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59136,9):
+      siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59146,9):
+      siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59155,9):
+      siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59164,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59174,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59183,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59498,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59507,9):
+      siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59517,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59526,9):
+      siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59474,9):
+      siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59483,9):
+      siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,21): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(380,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(381,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(382,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(386,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(387,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(388,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(391,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(392,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(395,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(396,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(399,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(400,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(470,34): warning C4141: "inline": mehrmals verwendet
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(511,30): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(568,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,75): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(573,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(726,12): warning C4244: "=": Konvertierung von "__int64" in "char", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(733,13): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(785,26): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(786,19): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(796,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(795,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(908,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(910,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(944,48): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(959,55): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(960,54): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,30): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,49): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,33): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1019,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(11,10): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(34,46): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(34,24): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(35,47): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(35,25): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(39,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(39,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(38,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(38,48): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(43,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(43,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(42,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(42,48): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(47,137): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(47,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(47,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(47,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(53,46): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(53,24): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(54,47): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(54,25): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(60,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(60,126): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(60,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(60,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(61,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(61,112): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(61,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(61,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(63,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(63,126): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(63,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(63,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(64,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(64,112): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(64,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(64,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(66,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(66,126): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(66,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(66,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(67,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(67,112): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(67,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(67,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(69,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(69,126): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(69,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(69,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(70,152): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(70,112): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(70,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(70,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(73,132): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(73,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(73,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(73,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(74,125): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(74,96): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(74,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(74,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(76,132): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(76,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(76,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(76,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(77,125): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(77,96): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(77,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(77,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(79,132): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(79,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(79,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(79,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(80,125): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(80,96): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(80,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(80,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(82,132): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(82,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(82,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(82,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(83,125): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(83,96): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(83,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(83,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(96,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(97,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(101,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(101,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(102,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(102,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(103,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(103,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(104,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(104,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(106,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(106,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(119,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(120,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(124,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(124,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(125,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(125,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(126,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(126,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(127,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(127,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(129,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(129,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(162,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(174,97): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(174,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(175,97): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(175,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(176,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(176,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(177,98): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(177,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(180,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\rendering\menu\wrapper.h(180,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(45,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(46,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(47,24): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(48,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(58,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(58,35): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(59,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(59,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(98,45): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(98,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(101,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(101,40): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(137,44): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(137,35): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(225,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(231,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(242,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(300,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(300,29): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(308,29): warning C4477: "sprintf_s": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+      C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(308,29):
+      Verwenden Sie ggf. "%lld" in der Formatzeichenfolge.
+      C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(308,29):
+      Verwenden Sie ggf. "%Id" in der Formatzeichenfolge.
+      C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(308,29):
+      Verwenden Sie ggf. "%I64d" in der Formatzeichenfolge.
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(311,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(319,19): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(321,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(325,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(325,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(326,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(326,42): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(332,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(353,59): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(356,86): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(373,86): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(373,49): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(377,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(377,42): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(378,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(378,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(388,84): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(388,47): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(392,128): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(392,101): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(392,83): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(392,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(403,77): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(403,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(410,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(411,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(412,21): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(414,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(414,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(414,29): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(462,25): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(495,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(495,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(583,85): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(583,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(597,71): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.cpp(597,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18): warning C4244: "=": Konvertierung von "wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(744,21):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(744,3):
+              Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "player::GetPlayerName" anzeigen
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(812,17):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(968,18):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)" der Funktions-Vorlage.
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  main.cpp
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\thirdparty\memory\memory.h(13,9): warning C4005: "CTL_CODE": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(269,9):
+      siehe vorherige Definition von "CTL_CODE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58984,9):
+      siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58993,9):
+      siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59002,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59011,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59020,9):
+      siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59029,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59038,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59053,9):
+      siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59062,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59071,9):
+      siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59080,9):
+      siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59089,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59098,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59108,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59117,9):
+      siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59127,9):
+      siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59136,9):
+      siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59146,9):
+      siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59155,9):
+      siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59164,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59174,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59183,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59498,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59507,9):
+      siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59517,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59526,9):
+      siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59474,9):
+      siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59483,9):
+      siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,21): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(48,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(343,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(344,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(345,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(380,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(381,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(382,23): warning C4244: "=": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(386,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(387,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(388,37): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(391,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(392,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(395,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(396,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(399,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(400,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(470,34): warning C4141: "inline": mehrmals verwendet
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(511,30): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(568,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,75): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(570,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(573,164): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(726,12): warning C4244: "=": Konvertierung von "__int64" in "char", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(733,13): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(785,26): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(786,19): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(796,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(795,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(805,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(810,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(815,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(824,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(829,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(834,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(842,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(847,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(852,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(857,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(865,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(870,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(875,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,46): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(880,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(888,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(893,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(908,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(910,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(944,48): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,45): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(956,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(959,55): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(960,54): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,52): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(992,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,73): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(991,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(997,30): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(996,49): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1008,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,51): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1009,33): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(1019,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „src/entry/main.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\entry\main.cpp(121,53): error C2065: "mapper_data": nichtdeklarierter Bezeichner
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\entry\main.cpp(122,30): error C2065: "mapper_data": nichtdeklarierter Bezeichner
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\entry\main.cpp(125,53): error C2065: "driver_data": nichtdeklarierter Bezeichner
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\entry\main.cpp(126,30): error C2065: "driver_data": nichtdeklarierter Bezeichner

@@ -1,0 +1,18 @@
+﻿  aimbot.cpp
+  index.cpp
+  main.cpp
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\engine\sdk.h(2,10): error C1083: Datei (Include) kann nicht geöffnet werden: "src/cache/index.h": No such file or directory
+  (Quelldatei „src/aimbot/aimbot.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\cache\index.h(2,10): error C1083: Datei (Include) kann nicht geöffnet werden: "include.h": No such file or directory
+  (Quelldatei „src/cache/index.cpp“ wird kompiliert)
+  
+C:\Users\reqy0\Desktop\Neuer Ordner (19)\Slotted\src\entry\main.cpp(1,10): error C1083: Datei (Include) kann nicht geöffnet werden: "include.h": No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_fonts.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
